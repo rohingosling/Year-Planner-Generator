@@ -1,0 +1,1 @@
+"""Year Planner Generator package."""

@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output files (generated)
+output/*.docx
+output/*.pdf
+output/*.bak
+
+# Backup folder
+backup/
+
+# Generated graph paper images (regenerate on build)
+assets/images/graph_paper_*.png
+
+# IDE
+.idea/
+.vscode/
+
+# Claude Code local settings
+.claude/settings.local.json

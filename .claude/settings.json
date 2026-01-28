@@ -1,0 +1,12 @@
+{
+  "rules": [
+    "Always use type hints in Python function signatures",
+    "Read all values from config.yaml - no hardcoded measurements",
+    "Use grayscale convention: 0=white, 100=black",
+    "Row heights must use hRule='exact' to prevent font-based expansion",
+    "Verify recto/verso page flow after any section changes",
+    "Anchor DrawingML overlays to existing paragraphs, never add new ones",
+    "Use minimized page breaks (1pt font, 1pt line spacing) before full-page tables",
+    "Stop and ask user to close files when encountering file lock errors"
+  ]
+}

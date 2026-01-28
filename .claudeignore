@@ -1,0 +1,44 @@
+# Virtual environment
+
+.venv/
+venv/
+env/
+
+# Generated outputs (large binary files)
+
+output/*.docx
+output/*.pdf
+output/*.bak
+
+# Backups
+
+backup/
+
+# Cache and generated images
+
+assets/images/*.png
+__pycache__/
+*.pyc
+
+# IDE
+
+.vscode/
+.idea/
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Temporary prompts
+
+.claude/prompts/
+
+# Sub projects
+
+assets/images/instructions/
+test/print_store_samples/
