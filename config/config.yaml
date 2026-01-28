@@ -1,5 +1,5 @@
 # Year Planner Generator Configuration
-# Version: v1.0
+# Version: v1.1
 
 # Debug mode settings
 
@@ -22,7 +22,7 @@ config_info_overlay:
 
 document:
   title:   "Year Planner"  # Document title for cover page
-  version: "1.0"           # Document version for cover page
+  version: "1.1"           # Document version for cover page
   year:    2026            # Planner year (current year)
 
 # Document generator metadata

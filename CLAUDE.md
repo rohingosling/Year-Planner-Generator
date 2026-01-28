@@ -4,7 +4,7 @@ Project guidance for Claude Code.
 
 ## Current Version
 
-**v1.0** — First complete release
+**v1.1** — GitHub integration
 
 ## Project Summary
 
@@ -108,6 +108,7 @@ If Word/PDF file is open during generation:
 year_planner/
 ├── CLAUDE.md
 ├── .claudeignore
+├── .gitignore
 ├── .markdownlint.json
 ├── requirements.txt
 ├── run.bat

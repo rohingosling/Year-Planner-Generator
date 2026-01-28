@@ -9,10 +9,10 @@ Task tracking and velocity metrics for the Year Planner Generator.
 | Foundation | v0.0–v0.4 | 10 | 17 | Project setup, cover, week planner, A4 conversion |
 | Layout | v0.5–v0.8 | 10 | 22 | Calendar, graph paper, gutter, goals, backlog |
 | Styling | v0.9–v0.12 | 11 | 18 | Configurable tables, page numbering, margins |
-| Content | v0.13–v1.0 | 19 | 33 | Monthly sections, TOC, instructions, PDF output, terms, release |
-| **Total** | | **50** | **90** | |
+| Content | v0.13–v1.1 | 20 | 35 | Monthly sections, TOC, instructions, PDF output, terms, release, GitHub |
+| **Total** | | **51** | **92** | |
 
-**Average velocity:** ~22.5 effort per phase
+**Average velocity:** ~23 effort per phase
 
 ---
 
@@ -25,10 +25,10 @@ Task tracking and velocity metrics for the Year Planner Generator.
 | 2026-01-25 | v0.5–v0.6 | 7 | 18 |
 | 2026-01-26 | v0.7–v0.12 | 13 | 22 |
 | 2026-01-27 | v0.13–v0.15 | 17 | 28 |
-| 2026-01-28 | v0.16–v1.0 | 3 | 5 |
-| **Total** | | **50** | **90** |
-| **Average** | | **10.0** | **18.0** |
-| **Min** | | **3** | **5** |
+| 2026-01-28 | v0.16–v1.1 | 4 | 7 |
+| **Total** | | **51** | **92** |
+| **Average** | | **10.2** | **18.4** |
+| **Min** | | **4** | **7** |
 | **Max** | | **17** | **28** |
 
 *Average, Min, and Max exclude days with zero tasks.*
@@ -88,6 +88,7 @@ Task tracking and velocity metrics for the Year Planner Generator.
 | v0.16 | S | 2 | Terms and Definitions Section | New section with two-column tables for recording terms and definitions |
 | v0.16 | XS | 1 | Terms and Definitions TOC | Added TOC entries for Terms and Definitions pages with section shading |
 | v1.0 | S | 2 | Final Testing | Comprehensive testing of all sections, page flow, duplex printing, and visual inspection |
+| v1.1 | S | 2 | Add Project to GitHub | Initialized git repository, created .gitignore, initial commit, pushed to GitHub |
 
 ---
 
@@ -103,7 +104,6 @@ Task tracking and velocity metrics for the Year Planner Generator.
 |------|--------|------|-------------|
 | L | 5 | Advanced Formatting | Generate custom page layouts as images with advanced formatting elements not available directly in MS Word |
 | S | 2 | Sales and Marketing | Research formal design for Amazon distribution |
-| - | - | Add project to GitHub | Add the project to my Github |
 
 ---
 

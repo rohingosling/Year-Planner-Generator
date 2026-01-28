@@ -22,6 +22,19 @@ No unreleased changes.
 
 ---
 
+## [1.1] — 2026-01-28
+
+### Added
+- Git repository initialization
+- `.gitignore` for Python projects (excludes venv, output, backups, generated images)
+- Initial commit with all project files
+- GitHub remote repository integration
+
+### Repository
+- URL: https://github.com/rohingosling/Year-Planner-Generator
+
+---
+
 ## [1.0] — 2026-01-28
 
 ### Summary
